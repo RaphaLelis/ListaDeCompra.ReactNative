@@ -1,8 +1,11 @@
 # Lista de compras
 
-![](src/utils/readme/projeto.png)
+![](src/utils/readme/telasProject.png)
 
-[ListaDeCompras]aplicativo para gerenciar lista de compras, onde é possível cadastrar itens por categorias já pré cadastradas e gerenciar esses ativos em tempo real, como por exemplo:
+Aluno: Raphael Menezes Lelis da Silva
+Matricula: 618135
+
+Aplicativo para gerenciar lista de compras, onde é possível cadastrar itens por categorias já pré cadastradas e gerenciar esses ativos em tempo real, como por exemplo:
 
 - [x] Gerenciar unidades
 - [x] Gerenciar categoria
