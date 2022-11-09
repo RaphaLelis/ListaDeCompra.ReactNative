@@ -4,6 +4,7 @@
 
 Aluno: Raphael Menezes Lelis da Silva
 Matricula: 618135
+- https://snack.expo.dev/@faelesco/github.com-raphalelis-listadecompra.reactnative
 
 Aplicativo para gerenciar lista de compras, onde é possível cadastrar itens por categorias já pré cadastradas e gerenciar esses ativos em tempo real, como por exemplo:
 
